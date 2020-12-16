@@ -1,0 +1,129 @@
+.headline {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em !important;
+    font-variant: small-caps !important;
+  }
+  
+  .byline {
+    color:#e49436;
+    font-size: 0.6em !important;
+  }
+  .tip {
+    color: gray;
+    font-size: 0.6em !important;
+  }
+
+  .gray-it {
+    color: gray;
+  }
+  
+  .help {
+    color: #a49436;
+    font-size: 0.4em !important;
+    font-variant: small-caps !important;
+    letter-spacing: 0.2em;
+  }
+  
+  .brand {
+    letter-spacing: 0.1em;
+    font-size: 0.9em !important;
+    font-variant: small-caps !important;
+  }
+  
+  .brand-options {
+    font-size: 0.65em !important; 
+  }
+  
+  .doclink {
+    font-size: 0.6em !important;
+  }
+  
+  .lodes-details {
+    color: white;
+    font-size: 0.65em !important;
+    line-height: 1.5em !important;
+  }
+  
+  .graphql-title {
+    text-align: center;
+  }
+  
+  .graphql-bullets {
+    color: gray;
+    font-size: 0.65em !important;
+    line-height: 1.5em !important;
+  }
+  .map-full img {
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .img-blur img {
+    border: none !important;
+    box-shadow: none !important;
+    opacity: 0.5;
+  }
+
+  .reveal pre {
+    width: 100%;
+    box-shadow : none;
+  }
+  
+  .reveal pre code {
+    font-size: 1.2em;
+    line-height: 1.2;
+    max-height: 50vh !important;
+    opacity: 0.95;
+    border-radius: 10px;
+  }
+  
+  .notransform {
+    text-transform: none;
+  }
+  
+  .aesthetics {
+    letter-spacing: 0.2em;
+    font-size: 0.6em !important;
+    font-variant: small-caps !important;
+  }
+
+.bg-black {
+  background: #000000 !important;
+}
+
+.bg-blue {
+  background: #4487F2 !important;
+}
+
+.bg-gray {
+  background: #777777 !important;
+}
+
+.bg-green {
+  background: #8EA33B !important;
+}
+
+.bg-orange {
+  background: #F26225 !important;
+}
+
+.bg-gold {
+  background: #E58537 !important;
+}
+
+.bg-pink {
+  background: #E71E60 !important;
+}
+
+.bg-purple {
+  background: #643B85 !important;
+}
+
+.bg-yellow {
+  background: #F5DB2E !important;
+}
+
+.bg-white {
+  background: #FFFFFF !important;
+}

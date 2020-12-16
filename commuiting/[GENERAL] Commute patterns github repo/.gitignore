@@ -1,0 +1,12 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# obsolete files
+/obsolete
+/data18-60
+/tiles
+/data/data_do_not_upload
+/data
+/data/blocks
+/build-tiles
